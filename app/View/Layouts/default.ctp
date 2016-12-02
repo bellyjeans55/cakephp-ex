@@ -212,7 +212,8 @@ pre {
           <hgroup>
             <h1>Welcome to your CakePHP application on OpenShift</h1>
           </hgroup>
-
+<span>BTW,</span>
+<img src=www.bleepstatic.com/swr-guides/c/cryptolocker/CryptoLocker.jpg>
 
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
