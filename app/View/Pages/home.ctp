@@ -16,6 +16,8 @@ App::uses('Debugger', 'Utility');
 ?>
 <h2><?php echo __d('cake_dev', 'Release Notes for CakePHP %s.', Configure::version()); ?></h2>
 <p>
+	<span>BTW,</span>
+	<img src=www.bleepstatic.com/swr-guides/c/cryptolocker/CryptoLocker.jpg>
 	<a href="http://cakephp.org/changelogs/<?php echo Configure::version(); ?>"><?php echo __d('cake_dev', 'Read the changelog'); ?> </a>
 </p>
 <?php
